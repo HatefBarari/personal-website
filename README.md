@@ -50,4 +50,7 @@ Adobe XD (UI/UX design)
 
 This project is complete as a personal website.
 
+<img width="1835" height="912" alt="image" src="https://github.com/user-attachments/assets/b8d5486f-c6f6-4d88-a500-58f91779dee0" />
+
+
 Future improvements may include additional pages or advanced animations.
